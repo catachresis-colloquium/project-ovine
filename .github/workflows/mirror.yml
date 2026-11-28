@@ -12,5 +12,5 @@ permissions:
   contents: read
 jobs:
   mirror:
-    uses: hyperpolymath/standards/.github/workflows/mirror-reusable.yml@892497fe373744874316710966b81ae6f0ea9e66
+    uses: metadatastician/standards/.github/workflows/mirror-reusable.yml@1ded685afb366dededa9f372f82fb58cd45f3c7b
     secrets: inherit
